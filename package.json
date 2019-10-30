@@ -1,0 +1,33 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Item Management/Sales System",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "emitter": "0.0.5",
+    "inquirer": "^6.0.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-Preissler/Bamazon.git"
+  },
+  "keywords": [
+    "inquirer",
+    "console.table",
+    "mysql",
+    "inventory",
+    "sales"
+  ],
+  "author": "Alex Preissler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-Preissler/Bamazon/issues"
+  },
+  "homepage": "https://github.com/Alex-Preissler/Bamazon#readme"
+}
