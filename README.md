@@ -6,7 +6,7 @@ Bamazon is an inventory managment and ordering program that will be able to help
 
 ## **Installing Bamazon:**
 
-* Bamazon is a command line interface progam. In order to install bamazon simply download the files to your system then follow these steps.
+* Bamazon is a command line interface program. In order to install bamazon simply download the files to your system then follow these steps.
 
 1. Update bamazonManager.js and customer.js connection with the user name and password you wish to use to access your database. The database name defaults to bamazonDB, this should also be updated if you wish to use a different database name.
 
